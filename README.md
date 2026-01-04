@@ -24,26 +24,6 @@ A Computer Science student, problem solver, and builder who loves turning ideas 
 ---
 
 
-## 📈 Coding Profiles
-
-* 🧠 **LeetCode** – Consistent problem solving
-* ⚔️ **CodeChef** – 3⭐ Competitive Programmer
-  
-
----
-
-## 📜 Certifications
-
-* RHCSA - Red Hat
-* MongoDB – GeeksforGeeks
-* SQL – Simplilearn
-* Java – CSEdge
-* Machine Learning – NASSCOM
-* Cyber Security – Google
-
-
----
-
 ## 📬 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/aditya-chhipa-ab8634265/
