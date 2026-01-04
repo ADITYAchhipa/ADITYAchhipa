@@ -39,4 +39,4 @@ If you find this repository helpful:
 * 🍴 Fork it
 * 🧠 Share it with others
 
-<p><a href="https://www.buymeacoffee.com/ADITYAchhipa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ADITYAchhipa" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/adichhipa23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adichhipa23" /></a></p><br><br>
