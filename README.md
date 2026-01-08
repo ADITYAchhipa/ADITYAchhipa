@@ -23,17 +23,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,express,mongodb,redis,docker,kubernetes,linux,nginx,aws,typescript&perline=7" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaChhipa&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaChhipa&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
